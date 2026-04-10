@@ -34,11 +34,6 @@ This project uses SQL to analyze customer and sales data in order to extract mea
 - Supports targeted marketing campaigns
 - Optimizes sales and product strategies
 
-## 📎 Project Structure
-queries.sql
-data/
-README.md
-
 ## 🚀 Future Improvements
 - Build dashboards based on SQL outputs
 - Automate reporting
